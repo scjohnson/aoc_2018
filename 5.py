@@ -18,7 +18,6 @@ def react(line):
 
 def solution_1(file_name):
     for line in open(file_name):
-        line = line.strip()
         return react(line)
 
 
