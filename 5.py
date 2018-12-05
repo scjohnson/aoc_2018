@@ -1,4 +1,4 @@
-
+# Solve problem five
 
 def char_combinations():
     for pairs in zip(range(ord('a'), ord('z')+1), range(ord('A'), ord('Z')+1)):
